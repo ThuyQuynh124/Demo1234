@@ -15639,6 +15639,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Demo1234\\Views\\Persons\\Delete.cshtml",
+      "TargetPath": "Views\\Persons\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Demo1234\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
@@ -15649,8 +15654,28 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Demo1234\\Views\\Persons\\Index.cshtml",
+      "TargetPath": "Views\\Persons\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Demo1234\\Views\\Persons\\Details.cshtml",
+      "TargetPath": "Views\\Persons\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Demo1234\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Demo1234\\Views\\Persons\\Create.cshtml",
+      "TargetPath": "Views\\Persons\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Demo1234\\Views\\Persons\\Edit.cshtml",
+      "TargetPath": "Views\\Persons\\Edit.cshtml",
       "FileKind": "mvc"
     }
   ],
