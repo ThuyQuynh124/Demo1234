@@ -13,4 +13,6 @@ using Demo1234.Models;
         }
 
         public DbSet<Demo1234.Models.Person> Person { get; set; }
+
+        public DbSet<Demo1234.Models.Demo> Demo { get; set; }
     }

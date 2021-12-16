@@ -3,13 +3,14 @@ using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 namespace Demo1234.Models
 {
-    [Table("Person")]
-    public class Person
+    [Table("Demo")]
+    public class Demo
     {
         [Key]
         [Display(Name="ID")]
-        public String PersonID { get; set; }
+        public String DemoID { get; set; }
         [Display(Name="Họ và tên")]
-        public string PersonName { get; set; }
+        public string DemoName { get; set; }
+        public string DemoGender { get; set; }
     }
 }
